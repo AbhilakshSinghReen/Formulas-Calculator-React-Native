@@ -1,0 +1,28 @@
+{
+    "ClicksModX":"ClicksModx",
+    "SaveUnits":"SaveUnits",
+    "Theme":"Theme",
+    "Units":{
+        "EnergyUnits":"Energy_Units",
+        "VoltageUnits":"Voltage_Units",
+        "CapacitanceUnits":"Capacitance_Units",
+        "SpringConstantUnits":"SpringConstant_Units",
+        "DistanceUnits":"Distance_Units",
+        "MassUnits":"Mass_Units",
+        "VelocityUnits":"Velocity_Units",
+        "TimeUnits":"Time_Units",
+        "AccelerationUnits":"Acceleration_Units",
+        "PressureUnits":"Pressure_Units",
+        "VolumeUnits":"Volume_Units",
+        "TemperatureUnits":"Temperature_Units",
+        "ChargeUnits":"Charge_Units",
+        "MagneticFieldUnits":"MagneticField_Units",
+        "ThermalConductivityUnits":"ThermalConductivity_Units",
+        "AreaUnits":"Area_Units",
+        "PowerUnits":"Power_Units",
+        "PermittivityUnits":"Permittivity_Units",
+        "CoulombsConstantUnits":"CoulombsConstant_Units",
+        "DipoleMomentUnits":"DipoleMoment_Units",
+        "ForceUnits":"Force_Units"
+    }
+}

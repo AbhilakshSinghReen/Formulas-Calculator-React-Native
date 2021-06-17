@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "FormulasCalculator",
+    "slug": "FormulasCalculator",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.WLR.FormulasCalculator",
+      "versionCode": 4,
+      "permissions":[],
+      "config":{
+        "googleMobileAdsAppId":"ca-app-pub-7788838845770602~4339155941"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
